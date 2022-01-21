@@ -228,3 +228,34 @@
     bottom: 30px;
     left: 20px;
 }
+
+.news1 {
+    background-image: url(../assets/roketsmok.gif);
+    height: 100vh;
+}
+.news1 .newstitle {
+    height: 150px;
+}
+.news1 .carouselslide{
+    height: 310px;
+    width: 500px;
+    position: relative;
+    top: 30px;
+    left: 20px;
+}
+.news1 .box{
+    opacity: 80%;
+    height: 100px;
+    width: 460px;
+    position: relative;
+    bottom: 30px;
+    left: 20px;
+}
+.newslistgroup{
+    top: 20px;
+}
+.news1 .newslist {
+    display: block;
+    margin-bottom: 10px;
+    border: 1px solid rgb(211, 204, 204);
+}
