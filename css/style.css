@@ -1,0 +1,230 @@
+.page1{
+    background-image: url(../assets/background/jadi1.png);
+    height: 100vh;
+}
+
+.page2{
+    background-image: url(../assets/background/jadi2.png);
+    height: 100vh;
+}
+.page2 .newsbuton img{
+    height: 150px;
+    position:relative;
+    left: 300px;
+}
+.page2 .listenbuton img{
+    height: 150px;
+    position:relative;
+    left: 300px;
+    top: 450px;
+}
+.page2 .tv{
+    height: 153px;
+    transform: rotate(147.39deg);
+    position:relative;
+    right: 250px;
+    top: 200px;
+    
+}
+.page2 .basdram{
+    height: 150px;
+    position: relative;
+    top: 550px;
+}
+.page2 .balon{
+    height: 200px;
+    position: relative;
+    top: 300px;
+    left: 250px;
+}
+
+.page3{
+    background-image: url(../assets/background/jadi4.png);
+    height: 100vh;
+}
+.page3 .archivebuton img{
+    height: 150px;
+    position:relative;
+    left: 450px;
+    top: 700px;
+}
+.page3 .melodi{
+    height: 250px;
+    position: relative;
+    right: 200px;
+    top: 350px;
+}
+.page3 .gitar{
+    height: 250px;
+    position: relative;
+    right: 100px;
+    top: 350px;
+}
+.page3 .drum{
+    height: 150px;
+    position: relative;
+    right: 450px;
+    top: 300px;
+}
+
+
+.page4{
+    background-color:#1a1919;
+    height: 100vh;
+}
+.page4 .robot{
+    transform: rotate(147.39deg);
+    position: relative;
+    left: 450px;
+}
+.page4 .youtube1{
+    position: relative;
+    left: 170px;
+    top: 2350px;
+}
+.page4 .youtube2{
+    position: relative;
+    left: 200px;
+    top: 500px;
+
+}
+.page4 .amot{
+    height: 150px;
+    position: relative;
+    top: 2450px;
+}
+.page4 .ucing{
+    height: 150px;
+    position: relative;
+    top: 2650px;
+    right: 500px;
+}
+.page4 .paus{
+    height: 150px;
+    transform: rotate(-20.39deg);
+    position: relative;
+    top: 2850px;
+    
+}
+.page4 .tangan{
+    position: relative;
+    left: 1090px;
+}
+
+.page5{
+    background-color:#1a1919;
+    background-image: url(../assets/scn2fix.gif);
+    height: 100vh;
+}
+.page5 .youtubeadd1{
+    position: relative;
+    left: 200px;
+    top: 2000px;
+}
+.page5 .youtubeadd2{
+    position: relative;
+    left: 50px;
+}
+.page5 .emot{
+    height: 150px;
+    position: relative;
+    top: 1600px;
+}
+.page5 .strawberry{
+    height: 150px;
+    position: relative;
+    top: 1000px;
+    right: 500px;
+}
+.page5 .mobil{
+    height: 150px;
+    position: relative;
+    left: 200px;
+    top: 1200px;
+}
+
+.page6{
+    background-color:#1a1919;
+    height: 100vh;
+}
+.page6 .fluktuasi{
+    position: relative;
+    left: 350px;
+}
+.page6 .rumah{
+    height: 180px;
+    position: relative;
+    top:1500px;
+    left:px;
+
+}
+.page7{
+    background: color #1a1919;;
+    height: 100vh;
+}
+.page7 .contac{
+    height: 150px;
+    position: relative;
+    left: 450px;
+}
+.page7 .form-group{
+    width: 500px;
+    opacity: 70%;
+    position: relative;
+    left:450px;
+    top: 950px;
+}
+.page7 .form-group-text{
+    width: 500px;
+    opacity: 70%;
+    position: relative;
+    left:450px;
+    top: 1200px;
+}
+.page7 .form-check{
+    position: relative;
+    top:10px;
+    left:450px;
+}
+.page7 .btn {
+    position: relative;
+    left:680px;   
+}
+.page8{
+    background-color:#a8a1a1;
+    height: 100vh;
+}
+.page8 .table1 {
+    position: relative;
+    left: 750px;
+    top: 350px;
+}
+.page8 .table2 {
+    position: relative;
+    left: 750px;
+    bottom: 300px;
+}
+.page8 .table3 {
+    position: relative;
+    left: 50px;
+    bottom: 605px;
+}
+.page9 {
+    background-color:#a8a1a1;
+    height: 100vh;
+}
+.page9 .carouselslide{
+    height: 310px;
+    width: 500px;
+    position: relative;
+    top: 100px;
+    left: 450px;
+}
+.page9 .box{
+    opacity: 80%;
+    height: 100px;
+    width: 460px;
+    position: relative;
+    bottom: 30px;
+    left: 20px;
+}
