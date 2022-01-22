@@ -228,3 +228,22 @@
     bottom: 30px;
     left: 20px;
 }
+
+.stream {
+    background-image: url(../assets/scn2fix.gif);
+    height: 100vh;
+    padding-top: 4em;
+    padding-bottom: 2em;
+}
+
+.stream .label {
+    height: 75px;
+}
+
+.stream .list {
+    margin-top: 4em;
+}
+
+.stream .media {
+    margin-top: 4em;
+}
